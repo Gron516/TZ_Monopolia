@@ -1,0 +1,17 @@
+D:\git\Traning\TZ_Monopolia\bin\Debug\net8.0\TZ_Monopolia.exe
+D:\git\Traning\TZ_Monopolia\bin\Debug\net8.0\TZ_Monopolia.deps.json
+D:\git\Traning\TZ_Monopolia\bin\Debug\net8.0\TZ_Monopolia.runtimeconfig.json
+D:\git\Traning\TZ_Monopolia\bin\Debug\net8.0\TZ_Monopolia.dll
+D:\git\Traning\TZ_Monopolia\bin\Debug\net8.0\TZ_Monopolia.pdb
+D:\git\Traning\TZ_Monopolia\obj\Debug\net8.0\TZ_Monopolia.GeneratedMSBuildEditorConfig.editorconfig
+D:\git\Traning\TZ_Monopolia\obj\Debug\net8.0\TZ_Monopolia.AssemblyInfoInputs.cache
+D:\git\Traning\TZ_Monopolia\obj\Debug\net8.0\TZ_Monopolia.AssemblyInfo.cs
+D:\git\Traning\TZ_Monopolia\obj\Debug\net8.0\TZ_Monopolia.csproj.CoreCompileInputs.cache
+D:\git\Traning\TZ_Monopolia\obj\Debug\net8.0\TZ_Monopolia.dll
+D:\git\Traning\TZ_Monopolia\obj\Debug\net8.0\refint\TZ_Monopolia.dll
+D:\git\Traning\TZ_Monopolia\obj\Debug\net8.0\TZ_Monopolia.pdb
+D:\git\Traning\TZ_Monopolia\obj\Debug\net8.0\TZ_Monopolia.genruntimeconfig.cache
+D:\git\Traning\TZ_Monopolia\obj\Debug\net8.0\ref\TZ_Monopolia.dll
+D:\git\Traning\TZ_Monopolia\obj\Debug\net8.0\TZ_Monopolia.csproj.AssemblyReference.cache
+D:\git\Traning\TZ_Monopolia\bin\Debug\net8.0\Newtonsoft.Json.dll
+D:\git\Traning\TZ_Monopolia\obj\Debug\net8.0\TZ_Monop.C5126B4F.Up2Date
